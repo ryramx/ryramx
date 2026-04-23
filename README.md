@@ -1,29 +1,30 @@
 # Olá, eu sou o Ryan Filipe 👋
 
-### 🚀 Desenvolvedor em Formação | Full-stack Web
-Sou um entusiasta da tecnologia focado em criar soluções eficientes e inteligentes, integrando Front-end e Back-end para construir aplicações web robustas. Atualmente, estou em busca da minha primeira oportunidade profissional para aplicar meus conhecimentos e evoluir em equipe.
+### 🚀 Desenvolvedor Full-stack | AI-Driven Development
+Sou um desenvolvedor em formação focado em criar aplicações web integradas, utilizando o poder da **Inteligência Artificial** para otimizar o fluxo de trabalho, a qualidade do código e a velocidade de entrega. 
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & IA Workflow
 * **Linguagens & Frameworks:** Node.js, TypeScript, JavaScript, Python (Básico)
+* **IA para Desenvolvimento:** Experiência em utilizar LLMs e ferramentas de IA para arquitetura de software, depuração e aceleração de desenvolvimento.
 * **Versionamento & Workflow:** Git, GitHub
-* **Ecossistema:** Desenvolvimento de APIs, Aplicações Web Modernas
+* **Ecossistema:** Desenvolvimento de APIs e Aplicações Web Modernas.
 
 ---
 
 ### 🏗️ Projetos em Destaque
-* **🎵 Music Composition App:** Atualmente desenvolvendo uma aplicação focada em composição musical para auxiliar músicos no processo criativo.
-* **🏢 Soluções Corporativas/Eclesiásticas:** Planejando e estruturando ferramentas inteligentes para otimização de ambientes de trabalho e gestão de comunidades.
+* **🎵 Compoze App:** Aplicação de composição musical desenvolvida com suporte de IA, focada em auxiliar músicos no processo criativo e organização melódica.
+* **🏢 Soluções Inteligentes:** Projetando ferramentas para ambientes corporativos e eclesiásticos, focadas em automação e eficiência de processos.
 
 ---
 
 ### 🥋 Além do Código
-Nem só de sintaxe vive um dev! Acredito no equilíbrio entre corpo, mente e espírito:
-* **Música:** Guitarrista e violonista (sempre explorando novas harmonias).
-* **Artes Marciais:** Praticante de Jiu-Jitsu (Faixa Branca - focado na disciplina e resiliência).
-* **Hobbies:** Amante de filosofia, literatura e entusiasta da atividade física.
-* **Valores:** Cristão, buscando sempre a excelência e a melhor versão pessoal.
+Equilibrando a lógica com a arte e a disciplina:
+* **Música:** Guitarrista e violonista.
+* **Artes Marciais:** Praticante de Jiu-Jitsu (Faixa Branca) — aprendendo que a constância vence o talento.
+* **Hobbies:** Amante de filosofia, buscando sempre o desenvolvimento físico, emocional e espiritual.
+* **Valores:** Cristão, focado em princípios de excelência e integridade.
 
 ---
 
