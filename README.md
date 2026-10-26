@@ -1,4 +1,4 @@
-# Olá, eu sou o Ryan Filipe 👋
+# Olá, eu sou o Ryan Ramos 👋
 
 ### 🚀 Desenvolvedor Full Stack Júnior
 
@@ -17,6 +17,7 @@ Atualmente, meu principal projeto é o **Sistema de Gestão da Associação Cris
 - FastAPI
 - Node.js
 - Express
+- Fastify
 - APIs REST
 
 ### Frontend
@@ -29,11 +30,14 @@ Atualmente, meu principal projeto é o **Sistema de Gestão da Associação Cris
 - PostgreSQL
 - MongoDB
 - SQLAlchemy
+- Drizzle
 
 ### Ferramentas & DevOps
 - Git
 - GitHub
+- GitHub Actions
 - Docker
+- Capacitor (Android)
 
 ### Conceitos
 - Modelagem de Dados
@@ -63,6 +67,19 @@ O projeto envolve:
 **Stack:** Python • FastAPI • React • TypeScript • PostgreSQL • SQLAlchemy • Docker
 
 👉 **[Ver projeto no GitHub](https://github.com/ryramx/siste.acpb)**
+
+### 🎵 Compoze, o caderno de quem compõe
+
+Caderno de composição compartilhado: letra, cifra e coautoria no mesmo lugar. Duas pessoas escrevem a mesma canção ao mesmo tempo, até sem internet, e cada trecho guarda quem o escreveu.
+
+- Edição colaborativa em tempo real (Yjs) e uso offline
+- Divisão de coautoria que só fecha em 100% e registro com hash SHA-256 encadeado
+- Seguidores, mural, conversas ao vivo e notificações no celular
+- PWA e app Android publicado pelo GitHub Actions
+
+**Stack:** TypeScript • React • Node.js • Fastify • PostgreSQL • Drizzle • Yjs • Capacitor
+
+👉 **[Ver projeto no GitHub](https://github.com/ryramx/Compoze_app)** · **[Baixar para Android](https://github.com/ryramx/Compoze_app/releases/latest/download/Compoze.apk)**
 
 ---
 
