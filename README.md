@@ -41,6 +41,7 @@ Atualmente, meu principal projeto é o **Sistema de Gestão da Associação Cris
 
 ### Conceitos
 - Modelagem de Dados
+- Edição colaborativa em tempo real (CRDT)
 - Autenticação JWT
 - RBAC
 - Arquitetura de Software
@@ -108,6 +109,7 @@ Busco utilizar IA como **ferramenta de apoio à tomada de decisão**, validando 
 - Engenharia de Software
 - Arquitetura de aplicações
 - Docker
+- Computação em nuvem (AWS Cloud Foundations)
 - Inteligência Artificial aplicada ao desenvolvimento
 
 ---
