@@ -4,7 +4,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full Stack e construção de aplicações web.
 
-Tenho experiência prática com **Python, FastAPI, React, TypeScript, PostgreSQL, Node.js e Git**, além de conhecimentos em APIs REST, modelagem de dados, autenticação e controle de acesso.
+Tenho experiência prática com **Python, FastAPI, React, TypeScript, PostgreSQL, Node.js, PHP, MySQL e Git**, além de conhecimentos em APIs REST, modelagem de dados, autenticação e controle de acesso.
 
 Atualmente, meu principal projeto é o **Sistema de Gestão da Associação Cristã Pau-Brasil (ACPB)**, uma aplicação web desenvolvida para atender necessidades reais de uma organização, envolvendo desde levantamento de requisitos e modelagem até arquitetura e implementação da solução.
 
@@ -18,6 +18,7 @@ Atualmente, meu principal projeto é o **Sistema de Gestão da Associação Cris
 - Node.js
 - Express
 - Fastify
+- PHP
 - APIs REST
 
 ### Frontend
@@ -28,6 +29,7 @@ Atualmente, meu principal projeto é o **Sistema de Gestão da Associação Cris
 
 ### Banco de Dados
 - PostgreSQL
+- MySQL / MariaDB
 - MongoDB
 - SQLAlchemy
 - Drizzle
@@ -81,6 +83,19 @@ Caderno de composição compartilhado: letra, cifra e coautoria no mesmo lugar. 
 **Stack:** TypeScript • React • Node.js • Fastify • PostgreSQL • Drizzle • Yjs • Capacitor
 
 👉 **[Ver projeto no GitHub](https://github.com/ryramx/Compoze_app)** · **[Baixar para Android](https://github.com/ryramx/Compoze_app/releases/latest/download/Compoze.apk)**
+
+### 💼 Sistema de Gestão para uma empresa de software
+
+Projeto real para um cliente: uma empresa que desenvolve sistemas sob medida e cobra o suporte por mensalidade. O sistema reúne clientes, contratos, cobranças e os acessos aos sistemas de cada cliente.
+
+- Contratos com renovação automática, reajuste por índice e mensalidade proporcional
+- Contas a receber e a pagar, extrato OFX conciliado e régua de cobrança por e-mail
+- Licenças, monitoramento de links, domínios/SSL e cofre de senhas cifrado
+- Indicadores (MRR/ARR), perfis de acesso, LGPD e arquitetura multiempresa
+
+**Stack:** PHP • MySQL/MariaDB • JavaScript • Tailwind CSS • GitHub Actions
+
+🔒 Código privado do cliente.
 
 ---
 
