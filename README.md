@@ -45,7 +45,7 @@ class RyanRamos:
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,fastify,php&perline=6" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,fastify,cs,dotnet,php&perline=8" alt="Backend" />
 
 **Frontend**
 
@@ -128,6 +128,33 @@ Caderno de composição compartilhado: **letra, cifra e coautoria no mesmo lugar
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/ryramx/Compoze_app)
 [![Baixar para Android](https://img.shields.io/badge/Baixar%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ryramx/Compoze_app/releases/latest/download/Compoze.apk)
+
+</details>
+
+<details open>
+<summary><b>📈 Ritmo — o copiloto do vendedor de rua</b> 🔒</summary>
+<br/>
+
+Produto SaaS que estou construindo em equipe de três desenvolvedores na Marco Zero Labs. O vendedor pergunta pelo **WhatsApp, pelo app ou pelo portal** e recebe números exatos tirados dos dados do ERP da empresa, além de um resumo do dia e avisos de quem parou de comprar.
+
+- Minha área: **dados e integrações com ERP**, rota do dia e app mobile
+- Conector de ERP (`IErpConnector`) com sincronização incremental e idempotente
+- Conector CSV com mapeamento de colunas, validação por linha e relatório de erros sem expor dados do arquivo
+- Histórico de sincronizações e frescor de cada tipo de dado
+- Contrato entre a IA e os dados: a IA só escolhe consultas fixas e nunca calcula números
+- Multiempresa com Row-Level Security no PostgreSQL, OpenAPI e ADRs
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+[![Página do produto](https://img.shields.io/badge/P%C3%A1gina%20do%20produto-181717?style=for-the-badge&logo=githubpages)](https://marco-zero-labs.github.io/ritmo-site/)
+
+> 🔒 Código privado da Marco Zero Labs.
 
 </details>
 
