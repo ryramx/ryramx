@@ -135,7 +135,7 @@ Caderno de composição compartilhado: **letra, cifra e coautoria no mesmo lugar
 <summary><b>📈 Ritmo — o copiloto do vendedor de rua</b> 🔒</summary>
 <br/>
 
-Produto SaaS que estou construindo em equipe de três desenvolvedores na Marco Zero Labs. O vendedor pergunta pelo **WhatsApp, pelo app ou pelo portal** e recebe números exatos tirados dos dados do ERP da empresa, além de um resumo do dia e avisos de quem parou de comprar.
+Produto SaaS que estou construindo em equipe de três desenvolvedores na Marco Zero Labs. O vendedor usa o **app no celular** (Android e iOS) entre uma visita e outra: vê a venda do mês contra a meta, quem saiu do ritmo de compra e pergunta sobre a carteira, com números exatos tirados dos dados do ERP da empresa. O gestor acompanha pelo portal web, e as perguntas também chegam pelo WhatsApp.
 
 - Minha área: **dados e integrações com ERP**, rota do dia e app mobile
 - Conector de ERP (`IErpConnector`) com sincronização incremental e idempotente
